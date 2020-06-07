@@ -60,7 +60,7 @@ ul li.active a{
 .title h2{
 	color: #fff;
 	font-size: 200%;
-	
+
 }
 
 .button{
@@ -77,6 +77,7 @@ ul li.active a{
 	color: #fff;
 	text-decoration: none;
 	transition: 0.6s ease;
+	margin-right: 10px;
 }
 
 .btn:hover{
